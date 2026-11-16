@@ -15,5 +15,23 @@ public class Main {
       boolean sameAge = (yourAge == drivingAge);
       System.out.println(sameAge);
 
+
+      boolean isHeads = false;
+if (isHeads) {
+    System.out.println("Let's go to the game");
+}
+else {
+    System.out.println("Let's watch a movie");
+}
+System.out.println("after conditional");
+
+boolean isAWeek = false;
+if (isAWeek) {
+   System.out.println("It's a busy week.");
+}
+else {
+   System.out.println("It's a lighter week!");
+}
+
    }
 }
